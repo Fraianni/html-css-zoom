@@ -22,7 +22,7 @@ header {
 
 button {
     background-color: #63707e;
-    padding: 1px;
+    padding: 2px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -83,6 +83,7 @@ footer {
     /* background-color: #222222; */
     background-color: white;
     height: 90px;
+    position: relative;
 }
 
 .icons-text-column {
@@ -102,11 +103,7 @@ p {
 }
 
 
-.row-footer-text {
-    display: flex;
-    margin-left: 5px;
-    justify-content: space-between;
-}
+
 
 .padd-icons div {
     margin-right: 20px;
@@ -129,9 +126,7 @@ img {
     display: flex;
 }
 
-.user-text {
-    font-size: 0.8rem;
-}
+
 
 .space {
     margin-right: 2px;
