@@ -126,6 +126,9 @@ img {
     display: flex;
 }
 
+.mute-video-icons {
+    margin-right: 30px;
+}
 
 
 .space {
